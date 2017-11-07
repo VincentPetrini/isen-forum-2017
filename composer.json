@@ -1,0 +1,16 @@
+{
+    "name": "isen/td_02_forum",
+    "description": "td de r\u0000alisation d'un forum dans le cadre des cours webdev \u0000 l'isen",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Isen\\": "src/Isen/"
+        }
+    },
+    "authors" : [{
+        "name" : "vpetrini",
+        "email" : "vincent.petrini@isen.yncrea.fr"
+        }
+    ]
+}
+
